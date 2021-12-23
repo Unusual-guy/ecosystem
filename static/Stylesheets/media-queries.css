@@ -1,0 +1,234 @@
+@media handheld, only screen and (max-width: 1200px) {
+  .bannercontainer .caption p {
+    font-size: 3em;
+  }
+  .bannercontainer .caption small {
+    font-size: 2em;
+  }
+  .contact .icon {
+    font-size: 3em;
+  }
+  .contact p {
+    font-size: 1em;
+  }
+  .domain-pricing ul li a {
+    font-size: 1.2em;
+    padding: 8px 10px;
+  }
+}
+
+@media handheld, only screen and (max-width: 992px) {
+  .container>.navbar-header {
+    width: 100%;
+  }
+  .header-top {
+    font-size: 0.8em;
+    line-height: 30px;
+  }
+  .header-top ul {
+    text-align: center;
+  }
+  .navbar-nav {
+    text-align: center;
+  }
+  .header-bottom h1 {
+    font-size: 2em;
+    margin: 0 0 0 -15px;
+  }
+  .bannercontainer {
+    margin: 10px 0 0 0;
+  }
+
+  .bannercontainer .caption p {
+    font-size: 1.3em;
+  }
+  .bannercontainer .caption small {
+    font-size: 1.3em;
+  }
+  .footer-top {
+    margin: 0 0 20px 0;
+  }
+  .footer-middle .container .row div:last-child {
+    margin: 20px 0 0 0;
+  }
+  .footer-bottom .copy,
+  .footer-bottom .pollicy {
+    text-align: center;
+  }
+  .img-bt-to img {
+    position: static;
+  }
+  .services.services-alt .carousel-indicators {
+    position: static;
+  }
+  .carousel-control {
+    margin: 0;
+  }
+    .carousel-reviews .item .img {
+    width: 33%;
+  }
+  .carousel-reviews .item blockquote {
+    font-size: 0.9em;
+    margin: 5px 0 10px 30px;
+    width: 52%;
+  }
+  .map {
+    min-height: 400px;
+  }
+  footer .bg {
+    max-height: 600px;
+  }
+}
+
+@media handheld, only screen and (max-width: 768px) {
+  footer .footer-top {
+    background: #fff;
+  }
+  footer {
+    background: #432E53 url("static/Images/bg-footer.png") top center repeat;
+    background-size: cover;
+  }
+
+  .carousel-reviews h2 {
+    margin: 0 0 30px 0;
+  }
+  .domain-pricing h2 {
+    float: left;
+  }
+  .domain-pricing ul {
+    height: auto;
+    border-top-left-radius: 0;
+    border-top-right-radius: 30px;
+  }
+  .domain-pricing ul li a {
+    font-size: 1em;
+    padding: 8px 4px;
+  }
+  .domain-toggle {
+    position: static;
+  }
+  .go-top {
+    display: none!important;
+  }
+  .header-top .row > div {
+    text-align: center;
+  }
+  .navbar .container .bg-navbar div{
+    background-image: none;
+  }
+  .navbar-toggle{
+    margin: 18px 0 0 0;
+  }
+  .navbar-nav li .dropdown-menu:after{
+    display: none;
+  }
+  .navbar-nav li {
+    width: 100%;
+    text-align: left;
+  }
+  .navbar-nav li a {
+    line-height: 40px;
+  }
+  .footer-middle .container .row div {
+    margin: 30px 0 0 0;
+  }
+  .map {
+    min-height: 350px;
+  }
+  
+}
+
+@media handheld, only screen and (max-width: 600px) {
+  .header-top {
+    font-size: 0.7em;
+    line-height: 30px;
+  }
+  .services.services-alt .carousel-indicators {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .carousel-control {
+    display: none;
+  }
+  .table {
+    min-width: 300px;
+  }
+  .table tbody tr
+  {
+    background-image: none;
+    border-bottom: 1px solid #E6E6E6;
+  }
+  .table tbody tr td {
+    font-size: 0.8em;
+    line-height: 1;
+    min-height: inherit;
+    padding: 18px 0;
+    vertical-align: middle;
+  }
+  .table thead tr th {
+     font-size: 0.8em;
+  }
+  .domains {
+    border-bottom: 2px solid #4E94D2;
+    border-left: 2px solid #4E94D2;
+    border-right: 2px solid #4E94D2;
+  }
+  .table-responsive {
+    border: none;
+    margin-bottom: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
+}
+
+@media handheld, only screen and (max-width: 480px) {
+  header.header-home .bg {
+    height: 420px;
+  }
+  .bannercontainer .caption p {
+    font-size: 1em;
+  }
+  .bannercontainer .caption small {
+    font-size: 1.3em;
+  }
+  .bannercontainer .caption img {
+    right: 52%;
+    top: 0;
+    position: absolute;
+    width: 50%!important;
+    height: auto!important;
+  }
+  .bannercontainer .caption .btn {
+    font-size: 0.7em;
+  }
+  .check_domain form .check {
+    font-size: 0.7em;
+    padding: 1.6em 1em;
+  }
+  .check_domain form .ext{
+    right: 109px;
+  }
+  form .form-group .form-control{
+    font-size: 0.8em;
+    padding: 1.3em 0.9em;
+  }
+  form.form-inline .btn.dropdown-toggle{
+    padding: 1.75em 1em;
+    font-size: 0.7em;
+  }
+  .total {
+    text-align: center;
+  }
+  .total .btn {
+    margin-bottom: 10px;
+  }
+  .total .pull-right {
+    float: none!important;
+    text-align: center;
+  }
+
+}
