@@ -4,7 +4,7 @@
 
 
 > The "Industry of the Future" is a step into a new world 
-> of virtual knowledge. A constantly developing Ecosystem ᅠ  ᅠ  ᅠ
+> of virtual knowledge. A constantly developing Ecosystem
 > aimed at obtaining theoretical and practical skills will
 > give a new impetus to the development of future specialists!
 
